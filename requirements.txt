@@ -1,0 +1,6 @@
+langchain==0.0.271
+langchain_experimental==0.0.10
+pandas==2.0.3
+python-dotenv==1.0.0
+streamlit==1.25.0
+openai
